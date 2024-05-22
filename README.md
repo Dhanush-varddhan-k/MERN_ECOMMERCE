@@ -41,7 +41,8 @@ To set up Chor Bazaar locally, follow these steps:
   npm install
   npm start
 ```
-
+<h1>Desktop mode</h1>
+<h4>Home Page</h4>
 <img width="1397" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/a58b9cad-e478-4d9f-9291-41797347f65e">
 
 
