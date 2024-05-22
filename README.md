@@ -1,5 +1,5 @@
 # MERN_ECOMMERCE
-# Description
+# Description:
 
 # Chor Bazaar 
 ![image](https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/80fba235-4ae0-4ffa-a2d4-c83521ca8928)
@@ -48,6 +48,9 @@ To set up Chor Bazaar locally, follow these steps:
 <img width="1439" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/b703ed0a-22a9-493d-aad9-95ba386df682">
 <h4>Viewing specific product details</h4>
 <img width="1437" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/65686647-8f32-4174-900b-9615eff2752f">
+<h4>Adding to cart</h4>
+![image](https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/7e1e1820-c6e9-4b87-8ae3-893bd67dcb21)
+
 
 
 
