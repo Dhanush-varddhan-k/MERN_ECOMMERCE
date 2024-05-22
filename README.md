@@ -52,6 +52,9 @@ To set up Chor Bazaar locally, follow these steps:
 <img width="1440" alt="Screenshot 2024-05-22 at 12 06 24 PM" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/f1401bde-ab43-4b27-aee2-e8c707bbb24f">
 <h4>Cart page</h4>
 <img width="1440" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/0b435181-0064-4506-9aca-8246dadc1e51">
+<h4>Order success full</h4>
+<img width="1440" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/607eaa5e-d296-40f6-872b-efce0d474e98">
+
 
 
 
