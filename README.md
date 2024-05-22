@@ -56,6 +56,8 @@ To set up Chor Bazaar locally, follow these steps:
 <img width="1440" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/607eaa5e-d296-40f6-872b-efce0d474e98">
 
 
+<h1>Mobile view</h1>
+<img width="493" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/2108cf91-45bc-4cd3-afe3-3d2689d017c0">
 
 
 
