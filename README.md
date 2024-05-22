@@ -25,40 +25,6 @@ utilised **Bootstrap** for styling and **Postman** for API testing.
 
 To set up Chor Bazaar locally, follow these steps:
 1. **Clone the repository:**
-   ```sh git clone https://github.com/yourusername/chor-bazaar.git
+   ```sh git clone https://github.com/yourusername/chor-bazaar.git sh```
 
 
-
-
-Install dependencies:
-
-Navigate to the backend directory and install the required packages:
-
-sh
-Copy code
-cd chor-bazaar/backend
-npm install
-Then, navigate to the frontend directory and install the dependencies:
-
-sh
-Copy code
-cd ../frontend
-npm install
-Start the application:
-
-Run the following command separately in both the backend and frontend directories to start the servers:
-
-sh
-Copy code
-npm start
-Set up MongoDB database:
-
-Start a new MongoDB database.
-Create two new collections named orders and products.
-Add the required product descriptions to the products collection.
-You now have a local copy of the Chor Bazaar website running! Explore and enjoy the seamless e-commerce experience.
-
-csharp
-Copy code
-
-Copy and paste this code into your README.md file, and it will display as intended with the images and formatting intact.
