@@ -44,7 +44,8 @@ To set up Chor Bazaar locally, follow these steps:
 <h1>Desktop mode</h1>
 <h4>Home Page</h4>
 <img width="1397" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/a58b9cad-e478-4d9f-9291-41797347f65e">
-
+<h4>Searching specific product</h4>
+<img width="1439" alt="image" src="https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/b703ed0a-22a9-493d-aad9-95ba386df682">
 
 
 
