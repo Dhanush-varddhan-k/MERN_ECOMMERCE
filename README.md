@@ -1,7 +1,8 @@
 # MERN_ECOMMERCE
 # Description
 
-# Chor Bazaar
+# Chor Bazaar ![image](https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE/assets/114069009/80fba235-4ae0-4ffa-a2d4-c83521ca8928)
+
 
 Welcome to **Chor Bazaar**, the ultimate online marketplace where buyers and sellers come together in a vibrant and seamless shopping experience. Our e-commerce platform boasts a beautiful, responsive design built to enhance user engagement and satisfaction.
 
