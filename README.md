@@ -30,9 +30,16 @@ To set up Chor Bazaar locally, follow these steps:
    ```sh
    git clone https://github.com/yourusername/chor-bazaar.git
 
-2. **Install dependencies:**
+2. **Install dependencies in backend:**
    ```sh
    cd backend
    npm install
+   npm start
+3.**Install dependencies in frontend:**
+  ```sh
+  cd frontend
+  npm install
+  npm start
+  
 
 
