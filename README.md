@@ -25,6 +25,8 @@ utilised **Bootstrap** for styling and **Postman** for API testing.
 
 To set up Chor Bazaar locally, follow these steps:
 1. **Clone the repository:**
-   ```sh git clone https://github.com/yourusername/chor-bazaar.git sh```
+   ```sh
+   git clone https://github.com/yourusername/chor-bazaar.git
+   ```sh
 
 
