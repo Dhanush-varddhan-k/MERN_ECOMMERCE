@@ -19,7 +19,7 @@ Chor Bazaar is built using the powerful MERN stack:
 - **React** for the frontend
 - **Node.js** as the backend runtime environment
 
-We also utilize **Bootstrap** for styling and **Postman** for API testing.
+utilised **Bootstrap** for styling and **Postman** for API testing.
 
 ## Prerequisites
 
